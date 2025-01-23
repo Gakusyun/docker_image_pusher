@@ -1,2 +1,4 @@
 alpine
-homeassistant/home-assistant
+homeassistant/home-assistant:latest
+xhofe/alist:latest
+xiaoyaliu/alist:latest
