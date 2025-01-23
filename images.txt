@@ -1,4 +1,4 @@
 alpine
 homeassistant/home-assistant:latest
 xhofe/alist:latest
-xiaoyaliu/alist:latest
+missuo/deeplx:latest
