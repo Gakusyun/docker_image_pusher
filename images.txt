@@ -1,5 +1,8 @@
 alpine
 homeassistant/home-assistant:latest
+homeassistant/home-assistant:latest-aio
+homeassistant/home-assistant:latest-ffmpeg
+homeassistant/home-assistant:latest-aria2
 xhofe/alist:latest
 missuo/deeplx:latest
 docker.io/gitea/gitea:latest
