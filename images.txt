@@ -1,5 +1,6 @@
 alpine
 homeassistant/home-assistant:latest
+xhofe/alist:main-aio
 xhofe/alist:latest
 missuo/deeplx:latest
 docker.io/gitea/gitea:latest
