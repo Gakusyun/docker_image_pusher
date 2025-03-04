@@ -8,3 +8,5 @@ githubyumao/mcsmanager-daemon:latest
 githubyumao/mcsmanager-web:latest
 docker.gitea.com/gitea:latest
 --platform=arm64 docker.gitea.com/gitea:latest
+mysql
+--platform=arm64 mysql
