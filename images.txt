@@ -6,3 +6,4 @@ missuo/deeplx:latest
 docker.io/gitea/gitea:latest
 githubyumao/mcsmanager-daemon:latest
 githubyumao/mcsmanager-web:latest
+homeassistant/home-assistant:latest --platform=arm64
