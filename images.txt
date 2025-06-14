@@ -1,8 +1,6 @@
 alpine
 homeassistant/home-assistant:latest
 --platform=arm64 homeassistant/home-assistant:latest
-xhofe/alist:main-aio
-xhofe/alist:latest
 missuo/deeplx:latest
 githubyumao/mcsmanager-daemon:latest
 githubyumao/mcsmanager-web:latest
