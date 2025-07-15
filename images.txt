@@ -1,2 +1,4 @@
+ homeassistant/home-assistant:latest
 --platform=arm64 homeassistant/home-assistant:latest
-
+openlistteam/openlist:latest
+--platform=arm64 openlistteam/openlist:latest
